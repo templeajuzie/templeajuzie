@@ -6,14 +6,17 @@ import Projects from "./Pages/Projects";
 import Letswork from "./Pages/Letswork";
 import Blog from "./Pages/Blog";
 import BlogDetails from "./Pages/BlogDetails";
-import Admin from "./Admin/Pages/Admin";
-import Navbar from "./Components/Navbar";
+import AdminHome from "./Admin/Pages/AdminHome";
+import AdminBlog from "./Admin/Pages/AdminBlog";
+import AddBlog from "./Admin/Pages/AddBlog";
 
 function App() {
   return (
+
     <div className="App">
       <Router>
         <Routes>
+
           <Route path="/" element={<Home type="home" />} />
           <Route path="/aboutme" element={<Aboutme type="about" />} />
           <Route path="/projects" element={<Projects type="project" />} />
@@ -25,11 +28,15 @@ function App() {
           </Route>
           <Route path="/contact" element={<Letswork type="contact" />} />
           <Route path="/admin">
-            <Route index element={<Admin />} />
+            <Route index element={<AdminHome />} />
           </Route>
+          <Route path="/allblogs" element={<AdminBlog /> } />
+          <Route path="/addblog" element={<AddBlog /> } />
         </Routes>
+
       </Router>
     </div>
+
   );
 }
 
