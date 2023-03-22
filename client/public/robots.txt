@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /aboutme
+Allow: /projects
+Allow: /services
+Allow: /contact

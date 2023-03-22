@@ -1,0 +1,49 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Introduction to web development",
+            "aurthor": "Temple AJ",
+            "description": "the basic functionanlities of developing web applications that solves real life problems",
+            "img": "https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg"
+
+        },
+
+        {
+            "id": 3,
+            "title": "Mobile App Devops",
+            "aurthor": "Temple AJ",
+            "description": "the basic functionanlities of developing web applications that solves real life problems",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQD_G_mOp--HmMWUVQBUT0AfZIJ8zEJsFpSjdZBwAumNIVCopAhqKpvh-rIaTsa8cAVU&usqp=CAU"
+        },
+
+
+        {
+            "id": 3,
+            "title": "Mobile App Devops",
+            "aurthor": "Temple AJ",
+            "description": "the basic functionanlities of developing web applications that solves real life problems",
+            "img": "https://aitechnologiesng.com/wp-content/uploads/2020/10/app-development-courses.png"
+            
+        },
+
+
+
+        {
+            "id": 4,
+            "title": "Graphics design essentials",
+            "aurthor": "Temple AJ",
+            "description": "the basic functionanlities of developing web applications that solves real life problems",
+            "img": "https://hrchannels.com/uptalent/attachments/images/20210728/1627440508627-graphic-designer-nghe-hot-2.jpg"
+
+        },
+        {
+            "id": 5,
+            "title": "Basic Canva tutorial",
+            "aurthor": "Temple AJ",
+            "description": "the basic functionanlities of developing web applications that solves real life problems",
+            "img": "https://www.haber.club/wp-content/uploads/2022/06/canva-pro-ucretsiz-ve-sinirsiz-kullanim-yontemleri-nelerdir-1024x576.png"
+
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+  "blogs": [
+      {
+          "id": 1,
+          "title": "Introduction to web development",
+          "author": "Temple AJ",
+          "description": "Launching a career in web development can seem almost overwhelmingly tricky. There are countless languages and tools to learn — for a beginner, even figuring out where to start learning can seem difficult. ",
+          "img": "https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg"
+
+      },
+
+      {
+          "id": 2,
+          "title": "UI UX",
+          "author": "Temple AJ",
+          "description": "the basic functionanlities of developing web applications that solves real life problems",
+          "img": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149024129.jpg?w=2000"
+      },
+
+
+      {
+          "id": 3,
+          "title": "Mobile App Devops",
+          "author": "Temple AJ",
+          "description": "the basic functionanlities of developing web applications that solves real life problems",
+          "img": "https://aitechnologiesng.com/wp-content/uploads/2020/10/app-development-courses.png"
+          
+      },
+
+
+
+      {
+          "id": 4,
+          "title": "Graphics design essentials",
+          "author": "Temple AJ",
+          "description": "the basic functionanlities of developing web applications that solves real life problems",
+          "img": "https://hrchannels.com/uptalent/attachments/images/20210728/1627440508627-graphic-designer-nghe-hot-2.jpg"
+
+      },
+      {
+          "id": 5,
+          "title": "Basic Canva tutorial",
+          "author": "Temple AJ",
+          "description": "the basic functionanlities of developing web applications that solves real life problems",
+          "img": "https://www.haber.club/wp-content/uploads/2022/06/canva-pro-ucretsiz-ve-sinirsiz-kullanim-yontemleri-nelerdir-1024x576.png"
+
+      }
+  ]
+}
